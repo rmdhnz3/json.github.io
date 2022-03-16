@@ -1,0 +1,97 @@
+{
+    "list":[
+        {
+            "Genre" : "Adventure",
+            "Title" : "1",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "Adventure",
+            "Title" : "2",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "Adventure",
+            "Title" : "3",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "RPG",
+            "Title" : "4",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "RPG",
+            "Title" : "5",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "RPG",
+            "Title" : "6",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "RTS",
+            "Title" : "7",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "RTS",
+            "Title" : "8",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "RTS",
+            "Title" : "9",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "Action",
+            "Title" : "10",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "Action",
+            "Title" : "11",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "Action",
+            "Title" : "12",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        },
+        {
+            "Genre" : "Adventure",
+            "Title" : "13",
+            "Desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Rating" : "9,5/10",
+            "img" : "Question.png"
+        }   
+
+
+    ]
+}
